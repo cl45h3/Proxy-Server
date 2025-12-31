@@ -21,18 +21,30 @@ The project demonstrates **low-level networking**, **socket programming**, **fil
 
 ## Project Structure
 ├── Docs
+
 │ └── DESIGN.md
+
 │
 ├── config
+
 │ └── server.conf
+
 │
+
 ├── src
+
 │ └── Makefile
+
 │
+
 ├── logs
+
 │ └── proxy.log
+
 │
+
 ├── main.c
+
 └── proxy_server.exe
 
 ---
